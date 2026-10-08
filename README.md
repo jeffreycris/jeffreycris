@@ -34,7 +34,7 @@ Ask questions about 170+ real job descriptions in plain English. FAISS vector se
 - Caught a real failure mode through evaluation: grounded-but-misleading answers on count-style questions — fixed it with a no-extrapolation prompt rule and re-measured
 - Every answer cites its source chunks. No unsourced claims.
 
-### 📉 Customer Churn Prediction
+### 📉 [Customer Churn Prediction](https://github.com/jeffreycris/Customer-Defaulting-on-Credit-Payments))
 Feature engineering on 7,000+ customer records; Random Forest, Gradient Boosting, and ensemble models.
 - **84% ROC-AUC**; identified contract type, tenure, and monthly charges as the top churn drivers
 
