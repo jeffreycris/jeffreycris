@@ -1,7 +1,7 @@
 # Hi, I'm Jeffrey Cris 👋
 
 **Data Scientist in training — MS Data Science & Analytics @ Georgia State University (May 2027)**
-Currently: Utility AI Intern @ Sentient Energy, building AWS data pipelines for electric grid sensor data.
+Previously: Utility AI Intern @ Sentient Energy, building AWS data pipelines for electric grid sensor data.
 
 I build ML systems end to end — data collection, modeling, evaluation, and the honest part most people skip: measuring where they fail.
 
