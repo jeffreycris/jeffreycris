@@ -28,13 +28,13 @@ I build ML systems end to end — data collection, modeling, evaluation, and the
 
 ## 🚀 Featured Projects
 
-### 🔍 [JobLens — RAG Job-Market Q&A](https://github.com/jeffreycris/joblens)
+### 🔍 [JobLens RAG Job-Market Q&A](https://github.com/jeffreycris/joblens)
 Ask questions about 170+ real job descriptions in plain English. FAISS vector search + MiniLM embeddings + locally hosted Llama 3.1 via Ollama.
 - **85% retrieval hit-rate** on a 20-question eval set with ground truth computed from the source data
 - Caught a real failure mode through evaluation: grounded-but-misleading answers on count-style questions — fixed it with a no-extrapolation prompt rule and re-measured
 - Every answer cites its source chunks. No unsourced claims.
 
-### 📉 Customer Churn Prediction
+### 📉 [Customer Churn Prediction](https://github.com/jeffreycris/Customer-Churn-Prediction)
 Feature engineering on 7,000+ customer records; Random Forest, Gradient Boosting, and ensemble models.
 - **84% ROC-AUC**; identified contract type, tenure, and monthly charges as the top churn drivers
 
