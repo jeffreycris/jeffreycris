@@ -35,7 +35,7 @@ Ask questions about 170+ real job descriptions in plain English. FAISS vector se
 - Every answer cites its source chunks. No unsourced claims.
 
 ### 📉 [Customer Churn Prediction](https://github.com/jeffreycris/Customer-Churn-Prediction)
-Feature engineering on 7,000+ customer records; Random Forest, Gradient Boosting, and ensemble models.
+Feature engineering on 7,000+ customer records; Gradient Boosting,Voting Classifier and other models.
 - **84% ROC-AUC**; identified contract type, tenure, and monthly charges as the top churn drivers
 
 ### ⚡ Up Next
